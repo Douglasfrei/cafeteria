@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #deb887;
+}
+h1{
+	color:red;
+}
+.titulo{
+	color: #fff;
+	font-family:"Bokor" ;
+	font-size: 5rem; 
+	font-weight:360;
+    text-shadow:20px 30px 60px #ff0000;         
+}
+  
+  img{
+  	box-shadow:5 px 5 px 5px;
+  	border-radius:15px ;
+  }
+
+header{
+	background-color: #006600;
+	text-align: center;
+}
+a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 20px;
+}
+a:hover{
+	color:red;
+	cursor:no-drop;
+}
+
